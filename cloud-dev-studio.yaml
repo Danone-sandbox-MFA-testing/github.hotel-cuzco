@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github.hotel-cuzco
+  annotations:
+    github.com/project-slug: Danone-sandbox-MFA-testing/github.hotel-cuzco
+spec:
+  type: service
+  lifecycle: experimental
+  owner: maxime-delattre-octo
