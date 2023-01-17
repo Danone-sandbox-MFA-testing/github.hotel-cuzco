@@ -4,7 +4,7 @@ metadata:
   name: github.hotel-cuzco
   annotations:
     github.com/project-slug: Danone-sandbox-MFA-testing/github.hotel-cuzco
-    sonarqube.org/project-key: Danone-sandbox-MFA-testing/github.hotel-cuzco
+    sonarqube.org/project-key: Danone-sandbox-MFA-testing_github.hotel-cuzco
 spec:
   type: service
   lifecycle: experimental
